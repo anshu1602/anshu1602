@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/anshu-kumar-pandey-49753420a/](https://www.linkedin.com/in/anshu-kumar-pandey-49753420a/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, PHP Laravel, JAVA, J2EE**
+- 💬 Ask me about **HTML, CSS, Javascript, PHP Laravel, JAVA, J2EE, SQL/PL-SQL**
 
 - 📫 How to reach me **anshuraj110011@gmail.com**
 
